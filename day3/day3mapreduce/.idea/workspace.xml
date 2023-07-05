@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a618432-a9f6-40ec-952c-e0092bf587d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faoxygen/ProvinceTotalJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment/src/main/java/com/faoxygen/Wordcount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment/src/main/java/com/faoxygen/assignment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment/src/main/java/com/faoxygen/assignment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/develop/project/Practical-Training/day3/demo-jili-mapreduce",
+    "last_opened_file_path": "D:/develop/project/Practical-Training/day3/day3mapreduce",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,7 +75,10 @@
       <option name="presentableId" value="Default" />
       <updated>1688540939849</updated>
       <workItem from="1688540940905" duration="112000" />
-      <workItem from="1688541222258" duration="4289000" />
+      <workItem from="1688541222258" duration="6177000" />
+      <workItem from="1688553516824" duration="535000" />
+      <workItem from="1688554212346" duration="2371000" />
+      <workItem from="1688556664927" duration="1074000" />
     </task>
     <servers />
   </component>
